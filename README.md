@@ -3,7 +3,8 @@ Wanna send me secure email? Here's my public PGP key.
 
 My email address is: `s@9r.dk`
 
-```-----BEGIN PGP PUBLIC KEY BLOCK-----
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Hush 3.0
 
 mQELBFWSoxABCACiL0dIqaTPddLVcjnEKmz9/dtP4HPUJ1+8/LCgum+up/rYE95cZrVo
